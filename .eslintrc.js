@@ -11,5 +11,6 @@ module.exports = {
         "@typescript-eslint/camelcase": 0,
         "@typescript-eslint/explicit-member-accessibility": 0,
         "@typescript-eslint/no-parameter-properties": 0,
+        "@typescript-eslint/explicit-function-return-type": 0,
       },
   };
